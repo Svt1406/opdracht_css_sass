@@ -1,0 +1,10 @@
+$backgroundheader:  #c0eea9;
+$backgroundhere: #97d279;
+$backgroundabout: #97d279;
+$paddingbasic: 20px;
+
+@mixin text-styling {
+    max-width: 700px;
+  text-align: center;
+  padding: 20px;
+}
